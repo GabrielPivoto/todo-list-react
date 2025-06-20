@@ -1,7 +1,29 @@
-# TODO List
+# 📝 TODO List
 
-An application to create tasks created with Reatc and Vite
+A simple task management application built with **React** + **Vite**.
 
-1. Install dependencies `npm install`
-2. Start json-server  `npm run server`
-3. Start front-end  `npm run dev`
+---
+
+## 🚀 Technologies
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [JSON Server](https://github.com/typicode/json-server)
+
+---
+
+## ⚙️ How to Run
+
+Follow the steps below to run the project locally:
+
+1. Install dependencies:
+   
+   `npm install`
+
+2. Start JSON Server (mock back-end):
+
+  `npm run server`
+
+3. Start front-end:
+
+   `npm run dev`  
